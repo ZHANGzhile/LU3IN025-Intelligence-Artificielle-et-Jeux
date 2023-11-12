@@ -1,0 +1,23 @@
+# il faut utiliser python3.7 python3.8 ou 3.9 (pas >=3.10)
+python paintwars.py 0 False 1 2> /dev/null | tail -n 1
+python paintwars.py 0 True 1 2> /dev/null | tail -n 1
+python paintwars.py 1 False 1 2> /dev/null | tail -n 1
+python paintwars.py 1 True 1 2> /dev/null | tail -n 1
+python paintwars.py 2 False 1 2> /dev/null | tail -n 1
+python paintwars.py 2 True 1 2> /dev/null | tail -n 1
+python paintwars.py 3 False 1 2> /dev/null | tail -n 1
+python paintwars.py 3 True 1 2> /dev/null | tail -n 1
+python paintwars.py 4 False 1 2> /dev/null | tail -n 1
+python paintwars.py 4 True 1 2> /dev/null | tail -n 1
+python paintwars.py 5 False 1 2> /dev/null | tail -n 1
+python paintwars.py 5 True 1 2> /dev/null | tail -n 1
+python paintwars.py 6 False 1 2> /dev/null | tail -n 1
+python paintwars.py 6 True 1 2> /dev/null | tail -n 1
+python paintwars.py 7 False 1 2> /dev/null | tail -n 1
+python paintwars.py 7 True 1 2> /dev/null | tail -n 1
+python paintwars.py 8 False 1 2> /dev/null | tail -n 1
+python paintwars.py 8 True 1 2> /dev/null | tail -n 1
+python paintwars.py 9 False 1 2> /dev/null | tail -n 1
+python paintwars.py 9 True 1 2> /dev/null | tail -n 1
+python paintwars.py 10 False 1 2> /dev/null | tail -n 1
+python paintwars.py 10 True 1 2> /dev/null | tail -n 1
